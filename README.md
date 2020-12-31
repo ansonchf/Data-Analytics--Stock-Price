@@ -1,4 +1,4 @@
-# Data-Analytics--Stock-Price
+# Data-Analytics-Stock-Price
 
 I wrote an essay investigating the Relationship between the Price-Earnings Ratio, Price-To-Book Ratio, Dividend Yield, Earnings per share, Payout ratio and Stock Price of Nifty 500 Index – Evidence from Indian Stock Market
 
